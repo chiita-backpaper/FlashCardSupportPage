@@ -1,5 +1,5 @@
-## 単語学種アプリ
-単語学習アプリについてのお問い合わせは、uragami.dev@gmail.comにお願いします。
+## 単語学種アプリ(FlashCard)
+単語学習アプリ(FlashCard)についてのお問い合わせは、uragami.dev@gmail.comにお願いします。
 ご要望やバグの報告などお気軽にご連絡ください。
 
 <!-- You can use the [editor on GitHub](https://github.com/chiita-backpaper/FlashCardSupportPage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
